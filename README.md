@@ -1,0 +1,2 @@
+# vo_in_rust
+example_value_object_rust
